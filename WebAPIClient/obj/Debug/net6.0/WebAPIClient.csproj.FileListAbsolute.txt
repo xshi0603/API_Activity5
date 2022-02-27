@@ -1,0 +1,17 @@
+C:\Users\xshi6\Source\Repos\API_Activity5\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.AssemblyReference.cache
+C:\Users\xshi6\Source\Repos\API_Activity5\WebAPIClient\obj\Debug\net6.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xshi6\Source\Repos\API_Activity5\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfoInputs.cache
+C:\Users\xshi6\Source\Repos\API_Activity5\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfo.cs
+C:\Users\xshi6\Source\Repos\API_Activity5\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\bin\Debug\net6.0\WebAPIClient.exe
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\bin\Debug\net6.0\WebAPIClient.deps.json
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\bin\Debug\net6.0\WebAPIClient.runtimeconfig.json
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\bin\Debug\net6.0\WebAPIClient.dll
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\bin\Debug\net6.0\ref\WebAPIClient.dll
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\bin\Debug\net6.0\WebAPIClient.pdb
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CopyComplete
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\obj\Debug\net6.0\WebAPIClient.dll
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\obj\Debug\net6.0\ref\WebAPIClient.dll
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\obj\Debug\net6.0\WebAPIClient.pdb
+C:\Users\xshi6\source\repos\API_Activity5\WebAPIClient\obj\Debug\net6.0\WebAPIClient.genruntimeconfig.cache
